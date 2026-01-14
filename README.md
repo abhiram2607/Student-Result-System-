@@ -6,5 +6,3 @@ The program uses:
 - File handling
 - Conditional statements
 - Loops
-
-The input is taken from students.txt file.
